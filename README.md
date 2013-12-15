@@ -7,7 +7,7 @@ Compiled Using
 ==============
 
 - Microsoft Visual Studio Express 2013 for Windows Desktop
-- [http://www.visualstudio.com/downloads](http://http://www.visualstudio.com/downloads "Microsoft Visual Studio Express 2013 for Windows Desktop")
+- [http://www.visualstudio.com/en-us/downloads/](http://www.visualstudio.com/en-us/downloads/ "Microsoft Visual Studio Express 2013 for Windows Desktop")
 
 Supported PHP Versions
 ======================
