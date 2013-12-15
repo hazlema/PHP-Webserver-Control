@@ -18,4 +18,3 @@ Windows Binary Version
 ======================
 [https://www.dropbox.com/s/rrr5y0vpvaymaii/PHP%20Webserver%20Control.rar](https://www.dropbox.com/s/rrr5y0vpvaymaii/PHP%20Webserver%20Control.rar "Binary")
 
-Control the embedded PHP Webserver with this frontend GUI
